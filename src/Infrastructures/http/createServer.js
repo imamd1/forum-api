@@ -54,7 +54,7 @@ const createServer = async (injections) => {
     method: 'GET',
     path: '/',
     handler: () => ({
-      value: 'Hello world!',
+      value: 'Hello Dunyaa!',
     }),
   });
 
